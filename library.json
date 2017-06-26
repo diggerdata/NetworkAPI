@@ -1,0 +1,20 @@
+{
+  "name": "NetworkAPI",
+  "keywords": "mbed, nucleo, ethernet, udp, tcp, ip, network",
+  "description": "Object oriented network interface for the mbed platform",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/diggerdata/NetworkAPI.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Roy van Dam",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0.0",
+  "frameworks": "mbed",
+  "platforms": "ststm32"
+}
